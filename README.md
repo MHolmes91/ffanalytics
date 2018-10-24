@@ -11,6 +11,8 @@ of creating code.
 Intallation of the `ffanalytics` package can be done directly from github:
 `devtools::install_github("FantasyFootballAnalytics/ffanalytics")`
 
+* [Here is a quickstart guide describing how to install dependencies](https://fantasyfootballanalytics.net/2016/06/ffanalytics-r-package-fantasy-football-data-analysis.html)
+
 ## Projection sources
 The following sources are available for scraping:
 
